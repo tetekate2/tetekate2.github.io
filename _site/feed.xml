@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print" />
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>  </title>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <h1> Longchi Catherine </h1>
+        <h2>This blog is about my Outreachy internship with Ceph</h2>
+        <a href="https://github.com/tetekate2/ceph/tree/cluster-monitoring-email/src/pybind/mgr/alert" class="button"><small>View project on</small> GitHub</a>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+
+          <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Longchi Catherine</title>
+		<description>This blog is about my Outreachy internship with Ceph</description>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>My journey to Outreachy!</title>
+				<description>&lt;h4 id=&quot;what-motivated-you-to-apply-to-outreachy&quot;&gt;What motivated you to apply to Outreachy?&lt;/h4&gt;
+
+&lt;p&gt;With lots of positive vibes about Outreachy on the internet from previous Outreachy interns and coaches, applying for Outreachy has always been one of the things I have had in my bucket of todo for a longtime now. The opportunity finally came for me in the  December - March round of 2018/2019. Behold, I received an email notification from the organizers of Outreachy that the application period had started. With so much excitement I visited the official Outreachy website to explore the participating organizations with projects of my interest. That is how I came across Ceph and the project “Ceph Health Monitoring Plugins”.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-were-you-excited-about-when-thinking-about-applying&quot;&gt;What were you excited about when thinking about applying?&lt;/h4&gt;
+
+&lt;p&gt;I have read alot on the internet how the program have benefited many in terms of learning, experience and sharping their career path. I wanted this to be true for me as well, hence the very reason why becoming an Outreachy intern was so paramount to me. So far so good the program hasn’t disappoint thanks to the Ceph development community and my mentor Sage Weil.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-made-you-passionate-about-the-project-you-applied-to&quot;&gt;What made you passionate about the project you applied to?&lt;/h4&gt;
+
+&lt;p&gt;Let me talk a little about the project(“Ceph Health Monitoring Plugins”) I am working on. The goal of this project is to improve the options available for monitoring a simple cluster by adding some trivial “push” style built-in alerting tools. Examples include sending an email, posting to twitter, sending a message to an IRC channel, or posting to a slack. Just going through the project idea for the first time, presented an amazing learning opportunity for me that I found to very unique. “Finally I am going to get the opportunity to actually use python to do something real and useful with a potential global impact…” - My feelings
+My first task also played a very great role in me continuing with the project, given I was able to complete it in time to the satisfaction of the mentors.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-was-confusing-about-the-outreachy-application-process&quot;&gt;What was confusing about the Outreachy application process?&lt;/h4&gt;
+
+&lt;p&gt;The Outreachy application process is fairly simple and straight forward, given that the questions one has to respond to when filling the application are direct and to the point. However some improvements can still come through which if you ask me, I can’t think of any right away!&lt;/p&gt;
+
+&lt;h4 id=&quot;how-did-you-find-information-or-who-did-you-ask-questions-of-when-you-were-stuck&quot;&gt;How did you find information or who did you ask questions of when you were stuck?&lt;/h4&gt;
+
+&lt;p&gt;During the application phase, I got stucked several time being with setting up the development environment for my project of choice, or completing the first task, or filling out the project timeline. I was very fortunate to have extremely responsive and patient mentors to work with and will always turn to them for solutions to my problems. The dev community was also very helpful in providing answers to the technical issues I encountered on my way to completing my application.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-did-you-mentor-help-you-during-the-application-process&quot;&gt;How did you mentor help you during the application process?&lt;/h4&gt;
+
+&lt;p&gt;“Mentors are gold!” They are argueably the smartest people that exist on earth. It came time I was almost giving up on pursuing the project, then BOOM! one email from the mentor changed everything. It is amazing how they can instill drive, passion and determination in you.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-would-you-tell-someone-who-is-worried-about-applying-to-outreachy&quot;&gt;What would you tell someone who is worried about applying to Outreachy?&lt;/h4&gt;
+
+&lt;p&gt;Getting selected for Outreachy isn’t “Rocket Science”. The steps are very simple to follow through. You will also find alot of help with the mentors and the general developers community on the internet. You will forever be grateful if you dare to apply for the next round. But I am not sure you will ever forgive yourself for not even trying.&lt;/p&gt;
+
+&lt;p&gt;This is just the beginning of the internship, the road is still very long. I will be updating you on my progress on this same platform. Make sure not to miss a blog post from me.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 07 Dec 2018 11:28:56 +0100</pubDate>
+				<link>http://localhost:4000/outreachy/2018/12/07/my-journey-to-outreachy.html</link>
+				<guid isPermaLink="true">http://localhost:4000/outreachy/2018/12/07/my-journey-to-outreachy.html</guid>
+			</item>
+		
+			<item>
+				<title>Welcome to Jekyll!</title>
+				<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				<pubDate>Sun, 06 Apr 2014 16:40:56 +0100</pubDate>
+				<link>http://localhost:4000/jekyll/update/2014/04/06/welcome-to-jekyll.html</link>
+				<guid isPermaLink="true">http://localhost:4000/jekyll/update/2014/04/06/welcome-to-jekyll.html</guid>
+			</item>
+		
+	</channel>
+</rss>
+
+
+        </section>
+
+        <aside id="sidebar">
+          <a href="https://github.com/tetekate2/ceph/blob/cluster-monitoring-email/doc/mgr/alert.rst" class="button">
+            <small>User Guide</small>
+            .rst format
+          </a>
+          <a href="" class="button">
+            <small>Download User Guide</small>
+            .zip file
+          </a>
+
+          <!-- <p class="repo-owner"><a href="https://github.com/jasonlong/architect-theme">architect-theme</a> is maintained by <a href="https://github.com/jasonlong">jasonlong</a>.</p>
+
+          <p class="repo-owner"><a href="https://github.com/pietromenna/jekyll-architect-theme">jekyll-architect-theme</a> is maintained by <a href="https://github.com/pietromenna">pietromenna</a>.</p> -->
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</p>
+        </aside>
+      </div>
+    </div>
+
+  </body>
+</html>

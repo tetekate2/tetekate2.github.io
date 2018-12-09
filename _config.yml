@@ -1,0 +1,13 @@
+# Setup
+name:         Longchi Catherine
+description:  This blog is about my Outreachy internship with Ceph
+url:          https://tetekate2.github.io/
+locale:       "en"
+
+# Gems
+plugins:
+  - jekyll-paginate
+#- jekyll-feed
+
+#Others
+markdown: kramdown
